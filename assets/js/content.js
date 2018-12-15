@@ -1,18 +1,52 @@
 var slideData = [
 
+  
   {
-    section: "We turned real life into a .GIF and skated it.",
+    section: "Catharsis on the Mall, Washington, DC. November 5-8, 2018.",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    video: "yes",
+   bkgImage: {
+     wm: "assets/images/bkg/catharsis.webm",
+       mp: "assets/images/bkg/catharsis.mp4",
+      name:"1"
+    },
+    body: `
+<strong>Sound-reactive dome augmented reality projection mapping installation for festival on the National Mall.</strong><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+    `
+  },
+  
+  {
+    section: "Human Progress Festival, Washington, DC. October 5-8, 2018.",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    video: "yes",
+   bkgImage: {
+     wm: "assets/images/bkg/catharsis.webm",
+       mp: "assets/images/bkg/catharsis.mp4",
+      name:"2"
+    },
+    body: `
+<strong>Sound-reactive, motion-reactive augmented reality narrative installation.</strong><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.     
+    `
+  },
+  
+
+
+
+  {
+    section: "Pickathon Cosmos, Portland OR. August 3-5, 2018.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "phenomenalradnessartpark_s.jpg",
-      medium: "phenomenalradnessartpark.jpg",
-      large: "phenomenalradnessartpark.jpg"
+      small: "2018_2018__Rob_Kerr.23.jpg",
+      medium: "2018_2018__Rob_Kerr.23.jpg",
+      large: "2018_2018__Rob_Kerr.23.jpg"
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+<strong>Outdoor projection mapping program of Pickathon Music Festival.</strong><br /> Organized and co-curated digital art program and lead the execution of the projectors within 
 
     `
   },
@@ -20,13 +54,13 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "Social Augmented Reality.",
+    section: "Off-grid projection mapping Americana. Bretheren, MI. June 3, 2018",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
-      small: "mirrortravel_pr.png",
-      medium: "mirrortravel_pr.png",
-      large: "mirrortravel_pr.png"
+      small: "barnface.png",
+      medium: "barnface.png",
+      large: "barnface.png"
     },
     body: `
     The augmented reality environment provides a unique three-dimensional sound and motion responsive experience, using only common Web and projector technologies. 
@@ -44,8 +78,8 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/lilwayne.webm",
-       mp: "assets/images/bkg/lilwayne.mp4",
+     wm: "assets/images/bkg/catharsis.webm",
+       mp: "assets/images/bkg/catharsis.mp4",
       name:"1"
     },
     body: `
@@ -98,6 +132,24 @@ header: "",
 
 
 
+
+  {
+    section: "We turned real life into a .GIF and skated it.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "phenomenalradnessartpark_s.jpg",
+      medium: "phenomenalradnessartpark.jpg",
+      large: "phenomenalradnessartpark.jpg"
+      
+    },
+    body: `
+Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+
+    `
+  },
+  
 
   {
     section: "Created by Eric Cade Schoenborn and Ed Selego.",
