@@ -59,8 +59,8 @@ var slideData = [
     header: "",
     bkgImage: {
       small: "barnface.png",
-      medium: "images/barnface.png",
-      large: "images/barnface.png"
+      medium: "barnface.png",
+      large: "barnface.png"
     },
     body: `
     The augmented reality environment provides a unique three-dimensional sound and motion responsive experience, using only common Web and projector technologies. 
