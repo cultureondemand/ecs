@@ -24,10 +24,20 @@ var vid2=document.getElementById("bgvid2");
 vid2.pause();}
 function showTitle5(){var vid3=document.getElementById("bgvid3");vid3.pause();}
 function showTitle6(){var vid3=document.getElementById("bgvid3");vid3.play();}
-function showTitle7(){var vid3=document.getElementById("bgvid3");vid3.pause();}
-function showTitle8(){}
-function showTitle9(){}
-function showTitle10(){}
+function showTitle7(){
+  var vid3=document.getElementById("bgvid3");vid3.pause();
+var vid4=document.getElementById("bgvid4");vid4.play();
+}
+function showTitle8(){
+var vid4=document.getElementById("bgvid4");vid4.play();
+var vid5=document.getElementById("bgvid5");vid5.pause();}
+function showTitle9(){
+var vid4=document.getElementById("bgvid4");vid4.pause();
+var vid5=document.getElementById("bgvid5");vid5.play();}
+}
+function showTitle10(){
+var vid5=document.getElementById("bgvid5");vid5.pause();}
+}
 function showTitle11(){}
 function showTitle12(){}
 function showTitle13(){}
