@@ -171,16 +171,38 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     `
   },
   
+  
+  
 
   {
-    section: "Philly Radness. Philadelphia, PA. March 1 - May 1, 2016.",
+    section: "Miami Music Week, Miami, FL. March 13, 2016",
+header: "",
+    video: "yes",
+   bkgImage: {
+     wm: "assets/images/bkg/fordistas.webm",
+       mp: "assets/images/bkg/fordistas.mp4",
+      name:"5"
+    },
+
+    body:`
+ Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ `
+
+  }
+
+,
+  
+
+
+  {
+    section: "Young Arts Campus. Miami, FL. February 11, 2016.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "phenomenalradnessartpark_s.jpg",
-      medium: "phenomenalradnessartpark.jpg",
-      large: "phenomenalradnessartpark.jpg"
+      small: "youngarts.jpg",
+      medium: "youngarts.jpg",
+      large: "youngarts.jpg"
       
     },
     body: `
@@ -194,14 +216,14 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "Phenomenal Radness is indestructible.",
+    section: "InterContinental Hotel. Miami, FL. Novenmber 2015 - February 2016",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
    bkgImage: {
      wm: "assets/images/bkg/prwr.webm",
        mp: "assets/images/bkg/prwr.mp4",
-      name:"5"
+      name:"6"
     },
     body: `
     It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
@@ -210,6 +232,110 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
   
 
 
+  
+  
+  
+
+
+  {
+    section: "FIU-Wolfsonian Museum. Miami, FL. December 10, 2014.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "6-IMG_0284_new-1060x707.jpg",
+      medium: "6-IMG_0284_new-1060x707.jpg",
+      large: "6-IMG_0284_new-1060x707.jpg"
+      
+    },
+    body: `
+Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+
+    `
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  {
+    section: "Frost Museum of Science. Miami, FL. October 14, 2014.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "scimuseum.jpg",
+      medium: "scimuseum.jpg",
+      large: "scimuseum.jpg"
+      
+    },
+    body: `
+Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+
+    `
+  },
+  
+  
+  
+  
+  
+  
+
+
+  {
+    section: "Knight Foundation. Miami, FL. December 1, 2014.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "skate_1.jpg",
+      medium: "skate_1.jpg",
+      large: "skate_1.jpg"
+      
+    },
+    body: `
+Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+
+    `
+  },
+  
+  
+  
+  
+  
+
+
+  {
+    section: "Miami Design District. Miami, FL. June 2013.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "skate_1.jpg",
+      medium: "skate_1.jpg",
+      large: "skate_1.jpg"
+      
+    },
+    body: `
+Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+
+    `
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 
   {
