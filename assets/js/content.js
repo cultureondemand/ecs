@@ -45,8 +45,8 @@ var slideData = [
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "moyaone.webm",
-       mp: "moyaone.mp4",
+     wm: "assets/images/bkg/moyaone.webm",
+       mp: "assets/images/bkg/moyaone.mp4",
       name:"2"
     },
     body: `
@@ -101,8 +101,8 @@ var slideData = [
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "idc.webm",
-       mp: "idc.mp4",
+     wm: "assets/images/bkg/idc.webm",
+       mp: "assets/images/bkg/idc.mp4",
       name:"3"
     },
     body: `
@@ -137,8 +137,8 @@ Architecture mapping of the interior of iconic New World Art Center building in 
     section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
 header: "",
    bkgImage: {
-     wm: "wbwb.webm",
-       mp: "wbwb.mp4",
+     wm: "assets/images/bkg/wbwb.webm",
+       mp: "assets/images/bkg/wbwb.mp4",
       name:"4"
     },
 
@@ -199,8 +199,8 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "prwr.webm",
-       mp: "prwr.mp4",
+     wm: "assets/images/bkg/prwr.webm",
+       mp: "assets/images/bkg/prwr.mp4",
       name:"5"
     },
     body: `
