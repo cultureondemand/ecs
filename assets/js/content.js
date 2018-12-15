@@ -154,6 +154,29 @@ header: "",
 
 
 
+
+
+  {
+    section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
+header: "",
+    video: "yes",
+   bkgImage: {
+     wm: "assets/images/bkg/wb.webm",
+       mp: "assets/images/bkg/wb.mp4",
+      name:"5"
+    },
+
+    body:`
+ View of the browser app powering Wild Beast.
+ `
+
+  }
+
+,
+  
+
+
+
   {
     section: "Philly Radness. Philadelphia, PA. March 1 - May 1, 2016.",
 //////////////////     icon: "pcy.svg",
@@ -181,7 +204,7 @@ header: "",
    bkgImage: {
      wm: "assets/images/bkg/fordistas.webm",
        mp: "assets/images/bkg/fordistas.mp4",
-      name:"5"
+      name:"6"
     },
 
     body:`
@@ -224,7 +247,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
    bkgImage: {
      wm: "assets/images/bkg/mygoodgood.webm",
        mp: "assets/images/bkg/mygoodgood.mp4",
-      name:"6"
+      name:"7"
     },
     body: `
     It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
@@ -245,7 +268,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
    bkgImage: {
      wm: "assets/images/bkg/prwr.webm",
        mp: "assets/images/bkg/prwr.mp4",
-      name:"7"
+      name:"8"
     },
     body: `
     It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
