@@ -73,18 +73,17 @@ var slideData = [
 
 
   {
-    section: "Art Robots that can hear and see.",
+    section: "Borscht Film Festival. Miami, FL. March 13-18, 2017",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/catharsis.webm",
-       mp: "assets/images/bkg/catharsis.mp4",
+     wm: "assets/images/bkg/idc.webm",
+       mp: "assets/images/bkg/idc.mp4",
       name:"3"
     },
     body: `
- Phenomneal Radness is constantly evolving, as we adapt and customize the brains of the piece (JavaScript) and the projection mapping approach for new contexts.
-   
+Transmedia Documentary created    
     `
   },
   
@@ -92,18 +91,17 @@ var slideData = [
 
 
   {
-    section: "Instant generative art installation.",
+    section: "Borscht Film Festival. Miami, FL. March 13-18, 2017.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
-   bkgImage: {
-     wm: "assets/images/bkg/prmusic.webm",
-       mp: "assets/images/bkg/prmusic.mp4",
-      name:"4"
+    bkgImage: {
+      small: "borscht.png",
+      medium: "borscht.png",
+      large: "borscht.png"
     },
     body: `
-We have generated Phenomenal Radness for galleries, museums, events, festivals, musicians, venues, skateparks and more.  
-    
+Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
     
     `
   },
@@ -113,12 +111,12 @@ We have generated Phenomenal Radness for galleries, museums, events, festivals, 
 
 
   {
-    section: "One projector and a laptop.",
+    section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
 header: "",
-    bkgImage: {
-      small: "projector2_s.gif",
-      medium: "projector2.gif",
-      large: "projector2.gif"
+   bkgImage: {
+     wm: "assets/images/bkg/wbwb.webm",
+       mp: "assets/images/bkg/wbwb.mp4",
+      name:"4"
     },
 
     body:`
@@ -134,7 +132,25 @@ header: "",
 
 
   {
-    section: "We turned real life into a .GIF and skated it.",
+    section: "Philly Radness. Philadelphia, PA. March 1 - May 1, 2016.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "skate_1.jpg",
+      medium: "skate_1.jpg",
+      large: "skate_1.jpg"
+      
+    },
+    body: `
+Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+
+    `
+  },
+  
+
+  {
+    section: "Philly Radness. Philadelphia, PA. March 1 - May 1, 2016.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -150,25 +166,6 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     `
   },
   
-
-  {
-    section: "Created by Eric Cade Schoenborn and Ed Selego.",
-header: "",
-    bkgImage: {
-      small: "20160408_inq_hd1skate08z-a.JPG",
-      medium: "20160408_inq_hd1skate08z-a.JPG",
-      large: "20160408_inq_hd1skate08z-a.JPG"
-    },
-
-    body:`
- We are 100% about creating innovative experiences through collaboration and fun.
-
- `
-
-  }
-
-,
-
  
  
 
