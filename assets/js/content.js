@@ -117,7 +117,6 @@ Transmedia Documentary created
     section: "Borscht Film Festival. Miami, FL. March 13-18, 2017.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
-    video: "yes",
     bkgImage: {
       small: "borscht.jpeg",
       medium: "borscht.jpeg",
@@ -136,6 +135,7 @@ Architecture mapping of the interior of iconic New World Art Center building in 
   {
     section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
 header: "",
+    video: "yes",
    bkgImage: {
      wm: "assets/images/bkg/wbwb.webm",
        mp: "assets/images/bkg/wbwb.mp4",
