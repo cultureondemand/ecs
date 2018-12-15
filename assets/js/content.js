@@ -119,9 +119,9 @@ Transmedia Documentary created
     header: "",
     video: "yes",
     bkgImage: {
-      small: "borscht.png",
-      medium: "borscht.png",
-      large: "borscht.png"
+      small: "borscht.jpeg",
+      medium: "borscht.jpeg",
+      large: "borscht.jpeg"
     },
     body: `
 Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
