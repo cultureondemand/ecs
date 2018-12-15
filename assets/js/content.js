@@ -16,6 +16,29 @@ var slideData = [
     `
   },
   
+  
+  
+
+  {
+    section: "K Street, Washington, DC. October 3-5, 2018.",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "drcbf_insta.jpg",
+      medium: "drcbf_insta.jpg",
+      large: "drcbf_insta.jpg"
+      
+    },
+    body: `
+<strong>Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings.</strong><br /> Organized and co-curated digital art program and lead the execution of the projectors within 
+
+    `
+  },
+  
+
+  
+  
   {
     section: "Human Progress Festival, Washington, DC. October 5-8, 2018.",
 //////////////////////////     icon: "pcy.svg",
