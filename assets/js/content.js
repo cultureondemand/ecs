@@ -213,16 +213,17 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
   
  
  
-
-
-  {
-    section: "InterContinental Hotel. Miami, FL. Novenmber 2015 - February 2016",
+  
+  
+  
+    {
+    section: "Filmgate Interactive. Miami, FL. February 26, 2016 — February 27, 2016",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/prwr.webm",
-       mp: "assets/images/bkg/prwr.mp4",
+     wm: "assets/images/bkg/mygoodgood.webm",
+       mp: "assets/images/bkg/mygoodgood.mp4",
       name:"6"
     },
     body: `
@@ -232,6 +233,30 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
   
 
 
+  
+  
+
+
+  {
+    section: "InterContinental Hotel. Miami, FL. Novenmber 2015 - January 2016",
+//////////////////////////     icon: "pcy.svg",
+    header: "",
+    video: "yes",
+   bkgImage: {
+     wm: "assets/images/bkg/prwr.webm",
+       mp: "assets/images/bkg/prwr.mp4",
+      name:"7"
+    },
+    body: `
+    It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
+    `
+  },
+  
+
+
+  
+  
+  
   
   
   
@@ -293,9 +318,9 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "skate_1.jpg",
-      medium: "skate_1.jpg",
-      large: "skate_1.jpg"
+      small: "interactiveexped.gif",
+      medium: "interactiveexped.gif",
+      large: "interactiveexped.gif"
       
     },
     body: `
@@ -316,9 +341,9 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "skate_1.jpg",
-      medium: "skate_1.jpg",
-      large: "skate_1.jpg"
+      small: "phenomenalradnessartpark.jpg",
+      medium: "phenomenalradnessartpark.jpg",
+      large: "phenomenalradnessartpark.jpg"
       
     },
     body: `
