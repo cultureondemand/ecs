@@ -22,8 +22,8 @@ var slideData = [
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/moyaone.webm",
-       mp: "assets/images/bkg/moyaone.mp4",
+     wm: "assets/images/moyaone.webm",
+       mp: "assets/images/moyaone.mp4",
       name:"2"
     },
     body: `
@@ -40,9 +40,9 @@ var slideData = [
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "2018_2018__Rob_Kerr.23.jpg",
-      medium: "2018_2018__Rob_Kerr.23.jpg",
-      large: "2018_2018__Rob_Kerr.23.jpg"
+      small: "assets/images/2018_2018__Rob_Kerr.23.jpg",
+      medium: "assets/images/2018_2018__Rob_Kerr.23.jpg",
+      large: "assets/images/2018_2018__Rob_Kerr.23.jpg"
       
     },
     body: `
@@ -58,9 +58,9 @@ var slideData = [
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
-      small: "barnface.png",
-      medium: "barnface.png",
-      large: "barnface.png"
+      small: "assets/images/barnface.png",
+      medium: "assets/images/barnface.png",
+      large: "assets/images/barnface.png"
     },
     body: `
     The augmented reality environment provides a unique three-dimensional sound and motion responsive experience, using only common Web and projector technologies. 
@@ -78,8 +78,8 @@ var slideData = [
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/idc.webm",
-       mp: "assets/images/bkg/idc.mp4",
+     wm: "assets/images/idc.webm",
+       mp: "assets/images/idc.mp4",
       name:"3"
     },
     body: `
@@ -96,9 +96,9 @@ Transmedia Documentary created
     header: "",
     video: "yes",
     bkgImage: {
-      small: "borscht.png",
-      medium: "borscht.png",
-      large: "borscht.png"
+      small: "assets/images/borscht.png",
+      medium: "assets/images/borscht.png",
+      large: "assets/images/borscht.png"
     },
     body: `
 Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
@@ -114,8 +114,8 @@ Architecture mapping of the interior of iconic New World Art Center building in 
     section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
 header: "",
    bkgImage: {
-     wm: "assets/images/bkg/wbwb.webm",
-       mp: "assets/images/bkg/wbwb.mp4",
+     wm: "assets/images/wbwb.webm",
+       mp: "assets/images/wbwb.mp4",
       name:"4"
     },
 
@@ -137,9 +137,9 @@ header: "",
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "skate_1.jpg",
-      medium: "skate_1.jpg",
-      large: "skate_1.jpg"
+      small: "assets/images/skate_1.jpg",
+      medium: "assets/images/skate_1.jpg",
+      large: "assets/images/skate_1.jpg"
       
     },
     body: `
@@ -155,9 +155,9 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     header: "",
  //////////////////////////   video: "yes",
     bkgImage: {
-      small: "phenomenalradnessartpark_s.jpg",
-      medium: "phenomenalradnessartpark.jpg",
-      large: "phenomenalradnessartpark.jpg"
+      small: "assets/images/phenomenalradnessartpark_s.jpg",
+      medium: "assets/images/phenomenalradnessartpark.jpg",
+      large: "assets/images/phenomenalradnessartpark.jpg"
       
     },
     body: `
@@ -176,8 +176,8 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/prwr.webm",
-       mp: "assets/images/bkg/prwr.mp4",
+     wm: "assets/images/prwr.webm",
+       mp: "assets/images/prwr.mp4",
       name:"5"
     },
     body: `
