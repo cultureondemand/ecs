@@ -22,8 +22,8 @@ var slideData = [
     header: "",
     video: "yes",
    bkgImage: {
-     wm: "assets/images/bkg/catharsis.webm",
-       mp: "assets/images/bkg/catharsis.mp4",
+     wm: "assets/images/bkg/moyaone.webm",
+       mp: "assets/images/bkg/moyaone.mp4",
       name:"2"
     },
     body: `
@@ -80,7 +80,7 @@ var slideData = [
    bkgImage: {
      wm: "assets/images/bkg/catharsis.webm",
        mp: "assets/images/bkg/catharsis.mp4",
-      name:"1"
+      name:"3"
     },
     body: `
  Phenomneal Radness is constantly evolving, as we adapt and customize the brains of the piece (JavaScript) and the projection mapping approach for new contexts.
@@ -99,7 +99,7 @@ var slideData = [
    bkgImage: {
      wm: "assets/images/bkg/prmusic.webm",
        mp: "assets/images/bkg/prmusic.mp4",
-      name:"2"
+      name:"4"
     },
     body: `
 We have generated Phenomenal Radness for galleries, museums, events, festivals, musicians, venues, skateparks and more.  
@@ -181,7 +181,7 @@ header: "",
    bkgImage: {
      wm: "assets/images/bkg/prwr.webm",
        mp: "assets/images/bkg/prwr.mp4",
-      name:"3"
+      name:"5"
     },
     body: `
     It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
