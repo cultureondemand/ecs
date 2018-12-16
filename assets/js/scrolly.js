@@ -64,11 +64,22 @@ function showTitle15(){
 var vid8=document.getElementById("bgvid8");vid8.pause();
 }
 function showTitle16(){}
-function showTitle17(){}
-function showTitle18(){}
-function showTitle19(){}
+function showTitle17(){
+var titleCloser=document.getElementById("titleCloser");
+  titleCloser.setAttribute("style","display:none; ");
+
+}
+                         
+function showTitle18(){
+  var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
+}
+function showTitle19(){
+
+}
 function showTitle20(){}
 function showTitle21(){}
 function showTitle22(){
-var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:none; ");}
-function showTitle23(){var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");}chart.activate=function(index){activeIndex=index;var sign=activeIndex-lastIndex<0?-1:1;var scrolledSections=d3.range(lastIndex+sign,activeIndex+sign,sign);scrolledSections.forEach(function(i){activateFunctions[i]();});lastIndex=activeIndex;};chart.update=function(index,progress){updateFunctions[index](progress);};return chart;};function display(){var plot=scrollVis();d3.select("#vis").call(plot);var scroll=scroller().container(d3.select("#graphic"));scroll(d3.selectAll(".step"));scroll.on("active",function(index){for(var i=0;i<window.slides.length;i++){var slide=window.slides[i];if(i+1===index){slide.show();console.log("show");}else{slide.hide();console.log("hide");}}plot.activate(index);});}document.addEventListener("DOMContentLoaded",function(){display();});window.addEventListener("resize",onResize);function onResize(h){var height=window.windowHeight;var width=window.windowWidth;var eBG=document.getElementById("bg"+h);}
+}
+function showTitle23(){
+}
+chart.activate=function(index){activeIndex=index;var sign=activeIndex-lastIndex<0?-1:1;var scrolledSections=d3.range(lastIndex+sign,activeIndex+sign,sign);scrolledSections.forEach(function(i){activateFunctions[i]();});lastIndex=activeIndex;};chart.update=function(index,progress){updateFunctions[index](progress);};return chart;};function display(){var plot=scrollVis();d3.select("#vis").call(plot);var scroll=scroller().container(d3.select("#graphic"));scroll(d3.selectAll(".step"));scroll.on("active",function(index){for(var i=0;i<window.slides.length;i++){var slide=window.slides[i];if(i+1===index){slide.show();console.log("show");}else{slide.hide();console.log("hide");}}plot.activate(index);});}document.addEventListener("DOMContentLoaded",function(){display();});window.addEventListener("resize",onResize);function onResize(h){var height=window.windowHeight;var width=window.windowWidth;var eBG=document.getElementById("bg"+h);}
