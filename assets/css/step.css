@@ -1,5 +1,5 @@
 #sections .step:first-child .bgbg{z-index:0;transition:none;-webkit-transition:none;}
-.step{background-color:#fff;transition:all .01s ease;-webkit-transition:all .01s ease;}
+.step{background-color:#fff;font-family:"Roboto Condensed",sans-serif !important;}
 
 .step-content{
   max-width:420px;
