@@ -1330,13 +1330,13 @@ background:none !important;
 @media only screen and (max-width: 400px) {
 
 #titleOpener {
-  background-color: rgba(0, 0, 0, .8);
-  display: block;
-top: 0;
-left: 0;
-  text-transform: uppercase;
-  color: #fff;
-  font-size: 3em;
+background-color: rgba(255, 255, 255, 1);
+    display: block;
+    top: 0;
+    left: 0;
+    text-transform: uppercase;
+    color: #000;
+  font-size: 1.6em;
 
   font-family: 'Oswald', sans-serif;
   font-weight: 800;
@@ -1348,7 +1348,7 @@ left: 0;
   text-align: left;
   line-height: .5em;
   position: relative;
-  width: 6.3em;
+  width: 8em;
   z-index: 99999999;
 }
 
@@ -1360,13 +1360,13 @@ left: 0;
 @media only screen and (min-width: 401px) and (max-width: 960px) {
  
 #titleOpener {
-  background-color: rgba(0, 0, 0, .8);
-  display: block;
-top: 0;
-left: 0;
-  text-transform: uppercase;
-  color: #fff;
-  font-size: 3em;
+background-color: rgba(255, 255, 255, 1);
+    display: block;
+    top: 0;
+    left: 0;
+    text-transform: uppercase;
+    color: #000;
+  font-size: 1.8em;
 
   font-family: 'Oswald', sans-serif;
   font-weight: 800;
@@ -1378,7 +1378,7 @@ left: 0;
   text-align: left;
   line-height: .5em;
   position: relative;
-  width: 6.3em;
+  width: 8em;
   z-index: 99999999;
 }
 
@@ -1392,13 +1392,13 @@ left: 0;
 @media only screen and (min-width: 961px) {
 
 #titleOpener {
-  background-color: rgba(0, 0, 0, .8);
-  display: block;
-top: 0;
-left: 0;
-  text-transform: uppercase;
-  color: #fff;
-  font-size: 3.6em;
+background-color: rgba(255, 255, 255, 1);
+    display: block;
+    top: 0;
+    left: 0;
+    text-transform: uppercase;
+    color: #000;
+  font-size: 2em;
 
   font-family: 'Oswald', sans-serif;
   font-weight: 800;
@@ -1413,7 +1413,7 @@ left: 0;
   text-align: left;
   line-height: .46em;
   position: relative;
-  width: 6.3em;
+  width: 9em;
   z-index: 99999999;
 }
 
