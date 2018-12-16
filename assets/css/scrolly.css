@@ -1338,7 +1338,7 @@ background-color: rgba(255, 255, 255, 1);
     color: #000;
   font-size: 1.6em;
 
-  font-family: 'Oswald', sans-serif;
+  font-family: "Trocchi",serif !important;
   font-weight: 800;
   margin-top:2.6em;
 
@@ -1368,7 +1368,7 @@ background-color: rgba(255, 255, 255, 1);
     color: #000;
   font-size: 1.8em;
 
-  font-family: 'Oswald', sans-serif;
+  font-family: "Trocchi",serif !important;
   font-weight: 800;
   margin-top:2.6em;
 
@@ -1400,7 +1400,7 @@ background-color: rgba(255, 255, 255, 1);
     color: #000;
   font-size: 2em;
 
-  font-family: 'Oswald', sans-serif;
+  font-family: "Trocchi",serif !important;
   font-weight: 800;
 
   margin-bottom: 0;
