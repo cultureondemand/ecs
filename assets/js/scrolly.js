@@ -65,15 +65,15 @@ var vid8=document.getElementById("bgvid8");vid8.pause();
 }
 function showTitle16(){}
 function showTitle17(){
+}
+                         
+function showTitle18(){
 var titleCloser=document.getElementById("titleCloser");
   titleCloser.setAttribute("style","display:none; ");
 
 }
-                         
-function showTitle18(){
-  var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
-}
 function showTitle19(){
+  var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
 
 }
 function showTitle20(){}
