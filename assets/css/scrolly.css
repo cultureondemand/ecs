@@ -1309,14 +1309,14 @@ background:none !important;
 @media only screen and (max-width: 400px) {
 
 #titleOpener {
-background-color: rgba(255, 255, 255, 1);
+/*background-color: rgba(255, 255, 255, 1); */
     display: block;
     top: 0;
     left: 0;
     text-transform: uppercase;
     color: #000;
-  font-size:1.6em;
-
+  font-size:1.8em;
+    text-shadow: 1px 1px 1px #000;
   font-family: "Trocchi",serif !important;
   font-weight: 800;
   margin-top:2.6em;
@@ -1339,14 +1339,14 @@ background-color: rgba(255, 255, 255, 1);
 @media only screen and (min-width: 401px) and (max-width: 960px) {
  
 #titleOpener {
-background-color: rgba(255, 255, 255, 1);
+/* background-color: rgba(255, 255, 255, 1); */
     display: block;
     top: 0;
     left: 0;
     text-transform: uppercase;
     color: #000;
-  font-size: 1.8em;
-
+  font-size:2em;
+    text-shadow: 1px 1px 1px #000;
   font-family: "Trocchi",serif !important;
   font-weight: 800;
   margin-top:2.6em;
@@ -1371,14 +1371,14 @@ background-color: rgba(255, 255, 255, 1);
 @media only screen and (min-width: 961px) {
 
 #titleOpener {
-background-color: rgba(255, 255, 255, 1);
+/* background-color: rgba(255, 255, 255, 1); */
     display: block;
     top: 0;
     left: 0;
     text-transform: uppercase;
-    color: #000;
-  font-size: 2.6em;
-
+    color: #fff;
+  font-size: 3em;
+    text-shadow: 1px 1px 1px #000;
   font-family: "Trocchi",serif !important;
   font-weight: 800;
 
