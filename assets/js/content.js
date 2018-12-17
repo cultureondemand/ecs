@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Installed for Eaton House Human Progress Festival<br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Installed for Eaton House Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
 
     `
   },
@@ -50,7 +50,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Immersive storytelling installation<br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Eaton House Human Progress Festival<br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Piscataway 360</strong><br />Immersive storytelling installation<br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Eaton House Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
     `
   },
   
@@ -69,7 +69,7 @@ var slideData = [
       
     },
     body: `
-<strong>Pickathon Cosmos</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>Pickathon Cosmos</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Organized and co-curated digital art program and lead the execution of the projectors within  
 
     `
   },
@@ -86,7 +86,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />52' x 96'<br />June 28-30, 2018<br /><br />Outdoor projection mapping program of Pickathon Music Festival.<br /><br /> Organized and co-curated digital art program and lead the execution of the projectors within  
      `
   },
   
