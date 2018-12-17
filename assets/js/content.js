@@ -2,7 +2,7 @@ var slideData = [
 
   
   {
-    section: "Catharsis on the Mall, Washington, DC. November 5-8, 2018.",
+    section: "National Mall, Washington, DC. Nov. 5-8, 2018.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -12,7 +12,7 @@ var slideData = [
       name:"1"
     },
     body: `
-<strong>Sound-reactive dome augmented reality projection mapping installation for festival on the National Mall.</strong><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>Sound-reactive augmented reality projection mapping installation for Catharsis on the National Mall 2018.</strong> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
     `
   },
   
@@ -20,7 +20,7 @@ var slideData = [
   
 
   {
-    section: "K Street, Washington, DC. October 3-5, 2018.",
+    section: "K Street, Washington, DC. ",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings.</strong><br /> Organized and co-curated digital art program and lead the execution of the projectors within 
+<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Installed for Eaton House Human Progress Festival<br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
 
     `
   },
@@ -40,7 +40,7 @@ var slideData = [
   
   
   {
-    section: "Human Progress Festival, Washington, DC. October 5-8, 2018.",
+    section: "Human Progress Festival, Washington, DC. Oct. 5-8, 2018.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -50,7 +50,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Sound-reactive, motion-reactive augmented reality narrative installation.</strong><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.     
+<strong>Piscataway 360</strong><br />Sound-reactive immersive storytelling installation<br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Installed for Eaton House Human Progress Festival<br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
     `
   },
   
@@ -58,7 +58,7 @@ var slideData = [
 
 
   {
-    section: "Pickathon Cosmos, Portland OR. August 3-5, 2018.",
+    section: "Pickathon. Portland OR. August 3-5, 2018.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -69,7 +69,7 @@ var slideData = [
       
     },
     body: `
-<strong>Outdoor projection mapping program of Pickathon Music Festival.</strong><br /> Organized and co-curated digital art program and lead the execution of the projectors within 
+<strong>Pickathon Cosmos</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
 
     `
   },
@@ -86,7 +86,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-    The augmented reality environment provides a unique three-dimensional sound and motion responsive experience, using only common Web and projector technologies. 
+<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
      `
   },
   
@@ -106,7 +106,7 @@ var slideData = [
       name:"3"
     },
     body: `
-Transmedia Documentary created    
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
     `
   },
   
