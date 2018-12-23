@@ -2,7 +2,7 @@ var slideData = [
 
   
   {
-    section: "National Mall, Washington, DC.",
+    section: "National Mall, Washington, DC",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -20,7 +20,7 @@ var slideData = [
   
 
   {
-    section: "K Street, Washington, DC. ",
+    section: "K Street, Washington, DC ",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -40,7 +40,7 @@ var slideData = [
   
   
   {
-    section: "Eaton House, Washington, DC.",
+    section: "Eaton House, Washington, DC",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -58,7 +58,7 @@ var slideData = [
 
 
   {
-    section: "Pickathon. Portland OR.",
+    section: "Pickathon, Portland OR",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -77,7 +77,7 @@ var slideData = [
 
 
   {
-    section: "Bretheren, MI.",
+    section: "The Groves Homestead, Bretheren, MI",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -96,7 +96,7 @@ var slideData = [
 
 
   {
-    section: "New World Center for the Arts. Miami, FL.",
+    section: "New World Center for the Arts, Miami, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -114,7 +114,7 @@ var slideData = [
 
 
   {
-    section: "New World Center for the Arts. Miami, FL.",
+    section: "New World Center for the Arts, Miami, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -133,7 +133,7 @@ var slideData = [
 
 
   {
-    section: "Parse Seco. Taos, NM.",
+    section: "Parse Seco, Taos, NM",
 header: "",
     video: "yes",
    bkgImage: {
@@ -157,7 +157,7 @@ header: "",
 
 
   {
-    section: "Parse Seco. Taos, NM.",
+    section: "Parse Seco, Taos, NM",
 header: "",
     video: "yes",
    bkgImage: {
@@ -178,7 +178,7 @@ header: "",
 
 
   {
-    section: "Philly Radness. Philadelphia, PA. March 1 - May 1, 2016.",
+    section: "Leonard Pearstein Gallery, Philadelphia, PA",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -189,8 +189,7 @@ header: "",
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
-
+ <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
     `
   },
   
@@ -198,7 +197,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
   
 
   {
-    section: "Miami Music Week, Miami, FL. March 13, 2016",
+    section: "Winter Music Conference, Miami, FL",
 header: "",
     video: "yes",
    bkgImage: {
@@ -208,7 +207,7 @@ header: "",
     },
 
     body:`
- Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Fordistas: Infiltrate 17.0</strong><br />JavaScript, WebGL, Projection Mapping, VR<br />96' x 12'<br />March 13, 2016<br />Product/81<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
  `
 
   }
@@ -218,7 +217,7 @@ header: "",
 
 
   {
-    section: "Young Arts Campus. Miami, FL. February 11, 2016.",
+    section: "The Bacardi Building. Miami, FL",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -229,8 +228,7 @@ header: "",
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
-
+ <strong>Outside the Box: Jason Moran, Jazz & Skateboarding</strong><br />JavaScript, WebGL, Projection Mapping<br />36' x 24'<br />Feb 6, 2016<br />YoungArts Campus<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
     `
   },
   
@@ -240,7 +238,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
   
   
     {
-    section: "Filmgate Interactive. Miami, FL. February 26, 2016 — February 27, 2016",
+    section: "Deauville Beach Resort. Miami Beach, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -250,8 +248,8 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
       name:"7"
     },
     body: `
-    It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
-    `
+ <strong>Filmgate Interactive</strong><br />JavaScript, WebGL, VR<br />In Browser<br />Feb. 26, 2016 — Feb. 27, 2016<br /><br />VR storytelling designed and developed for Miami's first transmedia festival.
+`
   },
   
 
@@ -261,7 +259,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "InterContinental Hotel. Miami, FL. Novenmber 2015 - January 2016",
+    section: "InterContinental Hotel. Miami, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -271,8 +269,8 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
       name:"8"
     },
     body: `
-    It has been an absolute pleasure to create each custom expereince, and see how people make it their own. 
-    `
+ <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />Nov. 2015 - Jan. 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the screens and exterior of the downtown Miami property.
+`
   },
   
 
@@ -286,7 +284,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "FIU-Wolfsonian Museum. Miami, FL. December 10, 2014.",
+    section: "Art Basel. Miami Beach, FL",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -297,8 +295,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
-
+ <strong>Phenomenal Amarante</strong><br />Curation, Design, Development, JavaScript, WebGL<br />60'x20'<br />Dec. 10, 2014<br />FIU-Wolfsonian Museum<br /><br />Sound Reactive projection mapping musical collaboration for official opening of Art Basel 2014. Organized the show, developed the browser app and executed the projector setup and mapping.
     `
   },
   
@@ -312,7 +309,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "Frost Museum of Science. Miami, FL. October 14, 2014.",
+    section: "Patricia and Phillip Frost Museum of Science. Miami, FL",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -323,7 +320,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+ <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />Oct. 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping.
 
     `
   },
@@ -336,7 +333,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "Knight Foundation. Miami, FL. December 1, 2014.",
+    section: "Knight Foundation. Miami, FL",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -347,7 +344,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
+ <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Graphics<br />Browser-based<br />Dec. 1, 2014<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
 
     `
   },
@@ -359,7 +356,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
 
 
   {
-    section: "Miami Design District. Miami, FL. June 2013.",
+    section: "Miami Design District. Miami, FL",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -370,8 +367,7 @@ Phenomenal Radness was orginially created in partnership with NikeSB and MIA Ska
       
     },
     body: `
-Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District. 
-
+ <strong>Phenomenal Radness</strong><br />Processing, TUIO, MadMapper, Video<br />120'x18'<br />June 2013<br /><br />Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District.
     `
   },
   
