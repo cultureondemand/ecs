@@ -32,7 +32,6 @@ var slideData = [
     },
     body: `
 <strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />24' x 42'<br />October 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
-
     `
   },
   
@@ -70,7 +69,6 @@ var slideData = [
     },
     body: `
 <strong>Pickathon Cosmos</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Organized and co-curated digital art program and lead the execution of the projectors within  
-
     `
   },
   
@@ -123,8 +121,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-<strong>New World Architecture Mapping</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
-    
+<strong>New World Architecture Mapping</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival.    
     `
   },
   
@@ -321,7 +318,6 @@ header: "",
     },
     body: `
  <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />Oct. 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping.
-
     `
   },
   
@@ -345,7 +341,6 @@ header: "",
     },
     body: `
  <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Graphics<br />Browser-based<br />Dec. 1, 2014<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
-
     `
   },
   
@@ -396,8 +391,6 @@ We would love to beam this for you. Reach out if you are interested in knowing m
 <br />
 <br /> <a href="mailto:&#99;&#117;&#108;&#116;&#117;&#114;&#101;&#111;&#110;&#100;&#101;&#109;&#97;&#110;&#100;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">+ Drop us a line</a>
 <br />
-
-
  `
 
   }
