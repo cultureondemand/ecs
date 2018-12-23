@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Installed for Eaton House Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />24' x 42'<br />October 5, 2018<br />Installed for Eaton House Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
 
     `
   },
@@ -40,7 +40,7 @@ var slideData = [
   
   
   {
-    section: "Human Progress Festival, Washington, DC. Oct. 5-8, 2018.",
+    section: "Eaton House, Washington, DC.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -50,7 +50,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Immersive storytelling installation<br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Eaton House Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Piscataway 360</strong><br />Immersive storytelling installation<br />Video, JavaScript, WebGL, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
     `
   },
   
@@ -58,7 +58,7 @@ var slideData = [
 
 
   {
-    section: "Pickathon. Portland OR. August 3-5, 2018.",
+    section: "Pickathon. Portland OR.",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -77,7 +77,7 @@ var slideData = [
 
 
   {
-    section: "Off-grid projection mapping Americana. Bretheren, MI. June 3, 2018",
+    section: "Bretheren, MI.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -86,7 +86,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />52' x 96'<br />June 28-30, 2018<br /><br />Outdoor projection mapping program of Pickathon Music Festival.<br /><br /> Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />52' x 96'<br />June 7, 2018<br />Off-grid projection mapping Americana.<br /><br />Organized and co-curated digital art program and lead the execution of the projectors within  
      `
   },
   
@@ -96,7 +96,7 @@ var slideData = [
 
 
   {
-    section: "Borscht Film Festival. Miami, FL. March 13-18, 2017",
+    section: "New World Center for the Arts. Miami, FL.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -106,7 +106,7 @@ var slideData = [
       name:"3"
     },
     body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />September 28-30, 2018<br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
     `
   },
   
@@ -114,7 +114,7 @@ var slideData = [
 
 
   {
-    section: "Borscht Film Festival. Miami, FL. March 13-18, 2017.",
+    section: "New World Center for the Arts. Miami, FL.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -123,7 +123,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
+<strong>New World Architecture Mapping</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br /><br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
     
     `
   },
@@ -133,7 +133,7 @@ Architecture mapping of the interior of iconic New World Art Center building in 
 
 
   {
-    section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
+    section: "Parse Seco. Taos, NM.",
 header: "",
     video: "yes",
    bkgImage: {
@@ -143,7 +143,7 @@ header: "",
     },
 
     body:`
- Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br /><br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
  `
 
   }
@@ -157,7 +157,7 @@ header: "",
 
 
   {
-    section: "Parse Seco. Taos, NM. September 1 - October 1, 2016",
+    section: "Parse Seco. Taos, NM.",
 header: "",
     video: "yes",
    bkgImage: {
@@ -167,7 +167,7 @@ header: "",
     },
 
     body:`
- View of the browser app powering Wild Beast.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br /><br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
  `
 
   }
