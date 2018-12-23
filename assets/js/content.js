@@ -2,7 +2,7 @@ var slideData = [
 
   
   {
-    section: "National Mall, Washington, DC. Nov. 5-8, 2018.",
+    section: "National Mall, Washington, DC.",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -123,7 +123,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-<strong>New World Architecture Mapping</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br /><br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
+<strong>New World Architecture Mapping</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival. 
     
     `
   },
@@ -143,7 +143,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br /><br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
  `
 
   }
@@ -167,7 +167,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br /><br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
  `
 
   }
