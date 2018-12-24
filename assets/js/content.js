@@ -12,7 +12,7 @@ var slideData = [
       name:"1"
     },
     body: `
-<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, Projection Mapping<br />124' x 42'<br />Oct. 5, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />124' x 42'<br />November 9-11, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
     `
   },
   
@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Video Editing, Projection Mapping<br />24' x 42'<br />Oct. 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Guerilla Kavanaugh Projections</strong><br />Videography, Art Direction, Projection Mapping<br />42' x 42'<br />October 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
     `
   },
   
@@ -49,7 +49,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac in celebration of the Piscataway Tribe, native to the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the media in JavaScript and WebGL. 
+<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac in celebration of the Piscataway Tribe, native to the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the media in JavaScript and WebGL. 
     `
   },
   
@@ -68,7 +68,7 @@ var slideData = [
       
     },
     body: `
-<strong>Pickathon Cosmos</strong><br />Curation, JavaScript, WebGL, HTML5, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
+<strong>Pickathon Cosmos</strong><br />Curation, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
     `
   },
   
@@ -84,7 +84,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />Live Video, JavaScript, WebGL, HTML5, Projection Mapping<br />96' x 52'<br />June 7, 2018<br /><br />Long exposure photo of off the grid projection mapping of audio and video responsive web app projection mapped onto a backwoods barn in Northern Michigan.   
+<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br /><br />Long exposure photo of off the grid projection mapping of audio and video responsive web app projection mapped onto a backwoods barn in Northern Michigan.   
      `
   },
   
@@ -104,7 +104,7 @@ var slideData = [
       name:"3"
     },
     body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Outdoor projection mapping program of Pickathon Music Festival. 
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited this footage with a small crew of Miami filmmakers supporting me in a 1 week shoot in the Everglades. 
     `
   },
   
@@ -121,7 +121,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-<strong>New World Architecture Mapping</strong><br />Video, MadMapper<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival.    
+<strong>New World Architecture Mapping</strong><br />Videography, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by innovative Miami film festival.    
     `
   },
   
@@ -140,7 +140,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, HTML5, MadMapper<br />96' x 12'<br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Wild Beast</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />September 1 - October 1, 2016<br />Parse Seco<br /><br />Augmented reality storytelling installation I developed in JavaScript, with footage shot in collaboration with Miami photographer Joel Meinholz.
  `
 
   }
@@ -164,7 +164,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, HTML5<br />Browser App<br />October 1, 2018<br />Parse Seco<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a friend. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed the browser app in JavaScript and HTML5.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />Browser App<br />September 1, 2016<br />Parse Seco<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a friend. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript and HTML5.
  `
 
   }
@@ -186,7 +186,7 @@ header: "",
       
     },
     body: `
- <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br />Drexel University<br /><br />Adapted the original interactive skatepark concept for a Philadelphia specific show around the closing of iconic skate spot, Love Park. Designed the park, the projector locations and built the setup in collaboration with Ed Selego. Designed and developed the sound and motion reactive browser app in JavaScript and HTML5.
+ <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br />Drexel University<br /><br />Adapted the original interactive skatepark concept for a Philadelphia specific show around the closing of iconic skate spot, Love Park. Designed the park, the projector locations and built the setup in collaboration with Ed Selego. Designed and developed the sound and motion reactive browser app in JavaScript and HTML5.
     `
   },
   
@@ -245,7 +245,7 @@ header: "",
       name:"7"
     },
     body: `
- <strong>Filmgate Interactive</strong><br />JavaScript, WebGL, VR<br />In Browser<br />Feb. 26, 2016 — Feb. 27, 2016<br /><br />VR storytelling designed and developed for Miami's first transmedia festival.
+ <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />In Browser<br />February 26, 2016 — February 27, 2016<br /><br />VR storytelling designed and developed with footage and audio shot on-location in Morocco for Miami's first transmedia festival.
 `
   },
   
@@ -266,7 +266,7 @@ header: "",
       name:"8"
     },
     body: `
- <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />Nov. 2015 - Jan. 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the screens and exterior of the downtown Miami property.
+ <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the screens and exterior of the downtown Miami property.
 `
   },
   
@@ -292,7 +292,7 @@ header: "",
       
     },
     body: `
- <strong>Phenomenal Amarante</strong><br />Curation, Design, Development, JavaScript, WebGL<br />60'x20'<br />Dec. 10, 2014<br />FIU-Wolfsonian Museum<br /><br />Sound Reactive projection mapping musical collaboration for official opening of Art Basel 2014. Organized the show, developed the browser app and executed the projector setup and mapping.
+ <strong>Phenomenal Amarante</strong><br />Curation, Design, Development, JavaScript, WebGL<br />60'x20'<br />December 10, 2014<br />FIU-Wolfsonian Museum<br /><br />Sound Reactive projection mapping musical collaboration for official opening of Art Basel 2014. Organized the show, developed the browser app and executed the projector setup and mapping.
     `
   },
   
@@ -317,7 +317,7 @@ header: "",
       
     },
     body: `
- <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />Oct. 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping.
+ <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping.
     `
   },
   
@@ -340,7 +340,7 @@ header: "",
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Graphics<br />Dec. 1, 2014<br />Online Publication<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
+ <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Illustration<br />December 1, 2014<br />Online Publication<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
     `
   },
   
@@ -362,7 +362,7 @@ header: "",
       
     },
     body: `
- <strong>Phenomenal Radness</strong><br />Processing, TUIO, MadMapper, Video<br />120'x18'<br />June 2013<br /><br />Phenomenal Radness was orginially created in partnership with NikeSB and MIA Skateshop as a popup  experience in the Miami Design District.
+ <strong>Phenomenal Radness</strong><br />Processing, TUIO, MadMapper, Videography<br />120'x18'<br />June 2013<br /><br />Created in partnership with NikeSB and MIA Skateshop as a popup immersive experience in the Miami Design District. I developed the piece in Processing and incorporated Microsoft Kinects using TUIO for a motion-reactive component. The piece was mapped across the space using MadMapper into 6 projectors placed and hung in collaboration with Ed Selego.
     `
   },
   
