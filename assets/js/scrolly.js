@@ -16,7 +16,7 @@ var outputA=document.getElementById("outputA");
 outputA.setAttribute("style","display:fixed; ");
   
     var outputB=document.getElementById("outputB");
-outputB.setAttribute("style","display:none; ");}
+outputB.setAttribute("style","display:none; ");
 
                          
                          
@@ -25,16 +25,16 @@ function showTitle2(){
 var vid1=document.getElementById("bgvid1");vid1.pause();
 var vid2=document.getElementById("bgvid1");vid2.pause();
   var outputA=document.getElementById("outputA");
-outputA.setAttribute("style","display:none; ");}
+outputA.setAttribute("style","display:none; ");
 
 var outputB=document.getElementById("outputB");
-outputB.setAttribute("style","display:fixed; ");}
+outputB.setAttribute("style","display:fixed; ");
 }
 function showTitle3(){
 var vid2=document.getElementById("bgvid2");
 vid2.play();
   var outputB=document.getElementById("outputB");
-outputB.setAttribute("style","display:none; ");}
+outputB.setAttribute("style","display:none; ");
 
 
 }
