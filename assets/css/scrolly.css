@@ -111,6 +111,24 @@ div.tooltip {
 }
 
 
+
+.output {
+  font-family: 'Oswald', serif;
+  font-weight: 300;
+   color: #000;
+  float: left;
+  display: block;
+  position: fixed;
+  right: 1%;
+  bottom: 1%;
+  padding: .3em;
+   opacity: 1;
+   z-index:9999999;
+}
+
+
+
+
 #pmnglogo {
   top: -1em;
   left: -.3em;
