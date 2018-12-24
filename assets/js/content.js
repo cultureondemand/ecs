@@ -2,7 +2,7 @@ var slideData = [
 
   
   {
-    section: "National Mall, Washington, DC",
+    section: "The National Mall. Washington, DC",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -20,7 +20,7 @@ var slideData = [
   
 
   {
-    section: "K Street, Washington, DC ",
+    section: "K Street. Washington, DC ",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -39,7 +39,7 @@ var slideData = [
   
   
   {
-    section: "Eaton House, Washington, DC",
+    section: "Eaton House. Washington, DC",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -57,7 +57,7 @@ var slideData = [
 
 
   {
-    section: "Pickathon, Portland OR",
+    section: "Pickathon Music Festival. Portland, OR",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -75,7 +75,7 @@ var slideData = [
 
 
   {
-    section: "The Groves Homestead, Bretheren, MI",
+    section: "The Groves Homestead. Bretheren, MI",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -84,7 +84,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />52' x 96'<br />June 7, 2018<br />Off-grid projection mapping Americana.<br /><br />Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />52' x 96'<br />June 7, 2018<br /><br />Organized and co-curated digital art program and lead the execution of the projectors within  
      `
   },
   
@@ -94,7 +94,7 @@ var slideData = [
 
 
   {
-    section: "New World Center for the Arts, Miami, FL",
+    section: "New World Center for the Arts. Miami Beach, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     video: "yes",
@@ -104,7 +104,7 @@ var slideData = [
       name:"3"
     },
     body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Outdoor projection mapping program of Pickathon Music Festival.<br /> Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Outdoor projection mapping program of Pickathon Music Festival. 
     `
   },
   
@@ -112,7 +112,7 @@ var slideData = [
 
 
   {
-    section: "New World Center for the Arts, Miami, FL",
+    section: "New World Center for the Arts. Miami Beach, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -121,7 +121,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-<strong>New World Architecture Mapping</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival.    
+<strong>New World Architecture Mapping</strong><br />Video, MadMapper<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by acclaimed film festival.    
     `
   },
   
@@ -130,7 +130,7 @@ var slideData = [
 
 
   {
-    section: "Parse Seco, Taos, NM",
+    section: "Parse Seco Gallery. Taos, NM",
 header: "",
     video: "yes",
    bkgImage: {
@@ -140,7 +140,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, HTML5, MadMapper<br />96' x 12'<br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
  `
 
   }
@@ -154,7 +154,7 @@ header: "",
 
 
   {
-    section: "Parse Seco, Taos, NM",
+    section: "Parse Seco Gallery. Taos, NM",
 header: "",
     video: "yes",
    bkgImage: {
@@ -164,7 +164,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />Sep. 1 - Oct. 1, 2016<br />Parse Seco<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, HTML5<br />Browser App<br />October 1, 2018<br />Parse Seco<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a friend. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed the browser app in JavaScript and HTML5.
  `
 
   }
@@ -175,7 +175,7 @@ header: "",
 
 
   {
-    section: "Leonard Pearstein Gallery, Philadelphia, PA",
+    section: "Leonard Pearstein Gallery. Philadelphia, PA",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -186,7 +186,7 @@ header: "",
       
     },
     body: `
- <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br />Drexel University<br /><br />Adapted the original interactive skatepark concept for a Philadelphia specific show around the closing of iconic skate spot, Love Park. Designed the park, the projector locations and built the setup in collaboration with Ed Selego. Designed and developed the sound and motion reactive browser app in JavaScript and HTML5.
     `
   },
   
@@ -194,7 +194,7 @@ header: "",
   
 
   {
-    section: "Winter Music Conference, Miami, FL",
+    section: "Winter Music Conference. Miami, FL",
 header: "",
     video: "yes",
    bkgImage: {
@@ -329,7 +329,7 @@ header: "",
 
 
   {
-    section: "Knight Foundation. Miami, FL",
+    section: "The John S. and James L. Knight Foundation",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -340,7 +340,7 @@ header: "",
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Graphics<br />Browser-based<br />Dec. 1, 2014<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
+ <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Graphics<br />Dec. 1, 2014<br />Online Publication<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
     `
   },
   
