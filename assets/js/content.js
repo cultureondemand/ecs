@@ -12,7 +12,7 @@ var slideData = [
       name:"1"
     },
     body: `
-<strong>Catharsis on the National Mall 2018</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />124' x 42'<br />October 5, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, Projection Mapping<br />124' x 42'<br />Oct. 5, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
     `
   },
   
@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />24' x 42'<br />October 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />24' x 42'<br />Oct. 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
     `
   },
   
