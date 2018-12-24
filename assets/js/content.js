@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Video, JavaScript, WebGL, Projection Mapping<br />24' x 42'<br />Oct. 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Guerilla Kavanaugh Projections</strong><br />Video Editing, Projection Mapping<br />24' x 42'<br />Oct. 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
     `
   },
   
@@ -49,7 +49,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Immersive storytelling installation<br />Video, JavaScript, WebGL, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac in celebration of the Piscataway Tribe, native to the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the media in JavaScript and WebGL. 
     `
   },
   
@@ -68,7 +68,7 @@ var slideData = [
       
     },
     body: `
-<strong>Pickathon Cosmos</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>Pickathon Cosmos</strong><br />Curation, JavaScript, WebGL, HTML5, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
     `
   },
   
@@ -84,7 +84,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />Curation, Production, Video, JavaScript, WebGL, Projection Mapping<br />52' x 96'<br />June 7, 2018<br /><br />Organized and co-curated digital art program and lead the execution of the projectors within  
+<strong>Augmented Americana</strong><br />Live Video, JavaScript, WebGL, HTML5, Projection Mapping<br />96' x 52'<br />June 7, 2018<br /><br />Long exposure photo of off the grid projection mapping of audio and video responsive web app projection mapped onto a backwoods barn in Northern Michigan.   
      `
   },
   
