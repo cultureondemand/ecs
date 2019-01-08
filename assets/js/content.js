@@ -26,8 +26,8 @@ var slideData = [
  //////////////////////////   video: "yes",
     bkgImage: {
       small: "drcbf_insta.jpg",
-      medium: "drcbf_insta.jpg",
-      large: "drcbf_insta.jpg"
+      medium: "projecitonsdc.jpg",
+      large: "projecitonsdc.jpg"
       
     },
     body: `
