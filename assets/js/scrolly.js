@@ -12,11 +12,12 @@ var logoOpener=document.getElementById("logoOpener");
 logoOpener.setAttribute("style","display:none; ");
 var openerimg=document.getElementById("openerimg");
 openerimg.setAttribute("style","visibility:hidden; ");
-var outputA=document.getElementById("outputA");
-outputA.setAttribute("style","display:fixed; ");
+
+  ////var outputA=document.getElementById("outputA");
+//////outputA.setAttribute("style","display:fixed; ");
   
-    var outputB=document.getElementById("outputB");
-outputB.setAttribute("style","display:none; ");
+ ///   var outputB=document.getElementById("outputB");
+////outputB.setAttribute("style","display:none; ");
 
                          
                          
@@ -24,17 +25,18 @@ outputB.setAttribute("style","display:none; ");
 function showTitle2(){
 var vid1=document.getElementById("bgvid1");vid1.pause();
 var vid2=document.getElementById("bgvid1");vid2.pause();
-  var outputA=document.getElementById("outputA");
-outputA.setAttribute("style","display:none; ");
+ 
+  ///////var outputA=document.getElementById("outputA");
+///////// outputA.setAttribute("style","display:none; ");
 
-var outputB=document.getElementById("outputB");
-outputB.setAttribute("style","display:fixed; ");
+///var outputB=document.getElementById("outputB");
+////outputB.setAttribute("style","display:fixed; ");
 }
 function showTitle3(){
 var vid2=document.getElementById("bgvid2");
 vid2.play();
-  var outputB=document.getElementById("outputB");
-outputB.setAttribute("style","display:none; ");
+///////  var outputB=document.getElementById("outputB");
+///////// outputB.setAttribute("style","display:none; ");
 
 
 }
@@ -102,4 +104,7 @@ function showTitle22(){
 }
 function showTitle23(){
 }
-chart.activate=function(index){activeIndex=index;var sign=activeIndex-lastIndex<0?-1:1;var scrolledSections=d3.range(lastIndex+sign,activeIndex+sign,sign);scrolledSections.forEach(function(i){activateFunctions[i]();});lastIndex=activeIndex;};chart.update=function(index,progress){updateFunctions[index](progress);};return chart;};function display(){var plot=scrollVis();d3.select("#vis").call(plot);var scroll=scroller().container(d3.select("#graphic"));scroll(d3.selectAll(".step"));scroll.on("active",function(index){for(var i=0;i<window.slides.length;i++){var slide=window.slides[i];if(i+1===index){slide.show();console.log("show");}else{slide.hide();console.log("hide");}}plot.activate(index);});}document.addEventListener("DOMContentLoaded",function(){display();});window.addEventListener("resize",onResize);function onResize(h){var height=window.windowHeight;var width=window.windowWidth;var eBG=document.getElementById("bg"+h);}
+chart.activate=function(index){activeIndex=index;
+                               var sign=activeIndex-lastIndex<0?-1:1;
+                               var scrolledSections=d3.range(lastIndex+sign,activeIndex+sign,sign);scrolledSections.forEach(function(i){activateFunctions[i]();});lastIndex=activeIndex;};chart.update=function(index,progress){updateFunctions[index](progress);};return chart;};
+function display(){var plot=scrollVis();d3.select("#vis").call(plot);var scroll=scroller().container(d3.select("#graphic"));scroll(d3.selectAll(".step"));scroll.on("active",function(index){for(var i=0;i<window.slides.length;i++){var slide=window.slides[i];if(i+1===index){slide.show();console.log("show");}else{slide.hide();console.log("hide");}}plot.activate(index);});}document.addEventListener("DOMContentLoaded",function(){display();});window.addEventListener("resize",onResize);function onResize(h){var height=window.windowHeight;var width=window.windowWidth;var eBG=document.getElementById("bg"+h);}
