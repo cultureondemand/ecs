@@ -100,7 +100,7 @@ function showTitle19(){
 function showTitle20(){}
                          
 function showTitle21(){  
-  var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
+ /////// var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
 }
                          
 function showTitle22(){
