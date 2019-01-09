@@ -204,7 +204,8 @@ header: "",
     },
 
     body:`
- <strong>Fordistas: Infiltrate 17.0</strong><br />JavaScript, WebGL, Projection Mapping, VR<br />96' x 12'<br />March 13, 2016<br />Product/81<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Fordistas: Infiltrate 17.0</strong><br />JavaScript, WebGL, Projection Mapping, VR<br />96' x 12'<br />March 13, 2016<br />Product/81<br /><br />Sound-reactive 3D projection and mobile VR experience designed for this long-running Miami Music Conference alternative event.
+
  `
 
   }
@@ -225,7 +226,7 @@ header: "",
       
     },
     body: `
- <strong>Outside the Box: Jason Moran, Jazz & Skateboarding</strong><br />JavaScript, WebGL, Projection Mapping<br />36' x 24'<br />Feb 6, 2016<br />YoungArts Campus<br /><br />Full scale architecture projection mapping installations or a simple augmented reality environments, from a Web browser.
+ <strong>Outside the Box: Jason Moran, Jazz & Skateboarding</strong><br />JavaScript, WebGL, Projection Mapping<br />36' x 24'<br />Feb 6, 2016<br />YoungArts Campus<br /><br />Created a sound reactive 3D projection mapping installation inspired by the Spike Jonze/Mark Gonzalez masterpiece, Video Days, to build a 3D version of the video to projected on a building across the plaza, and designed to respond to live Jazz performed by Jason Moran as he and his band improvised to skateboarders skating a halfpipe in the plaza of Miami's YoungArts campus.
     `
   },
   
@@ -245,7 +246,7 @@ header: "",
       name:"7"
     },
     body: `
- <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />In Browser<br />February 26, 2016 — February 27, 2016<br /><br />VR storytelling designed and developed with footage and audio shot on-location in Morocco for Miami's first transmedia festival.
+ <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />In Browser<br />February 26, 2016 — February 27, 2016<br /><br />Sound-reactive 3D projection and mobile VR experience designed for Miami's first transmedia festival.
 `
   },
   
@@ -267,7 +268,7 @@ header: "",
       
     },
     body: `
- <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property.
+ <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property with site specific art.
 `
   },
   
