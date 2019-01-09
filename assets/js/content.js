@@ -340,10 +340,30 @@ header: "",
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />JavaScript, HTML5, Audio, Illustration<br />December 1, 2014<br />Online Publication<br /><br />A Knight Foundation report to demonstrate one approach to immersive storytelling in the browser.
+ <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />December 1, 2014<br />Online Publication<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
     `
   },
   
+  
+  
+  
+
+
+  {
+    section: "The John S. and James L. Knight Foundation",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "searchlightsandsunglasses.png",
+      medium: "searchlightsandsunglasses.png",
+      large: "searchlightsandsunglasses.png"
+      
+    },
+    body: `
+ <strong>Searchlights and Sunglasses</strong><br />Creative Direction, Art Direction, Concepting<br />Interactive Textbook<br />October 2013<br /><br />Unique HTML5 journalism learning tool created in collaboration with author and journalism innovator Eric Newton.
+    `
+  },
   
   
   
@@ -373,23 +393,45 @@ header: "",
   
   
   
+
+
+  {
+    section: "Bass Museum. Miami Beach, FL",
+//////////////////     icon: "pcy.svg",
+    header: "",
+ //////////////////////////   video: "yes",
+    bkgImage: {
+      small: "eraseypagescreen.jpg",
+      medium: "eraseypagescreen.jpg",
+      large: "eraseypagescreen.jpg"
+      
+    },
+    body: `
+ <strong>Erasey Page</strong><br />HTML5, JavaScript, Creative Direction, Design<br />Web Based Exhibit<br />June 2011<br /><br />Interactive exhibit created in collaboration with Miami artist Jillian Mayer.
+    `
+  },
+  
+  
+  
+  
+  
   
   
 
 
   {
-    section: "Thanks for coming through.",
+    section: "www.ericcad.es",
 header: "",
     bkgImage: {
-      small: "prcrowd2.gif",
-      medium: "prcrowd2.gif",
-      large: "prcrowd2.gif"
+      small: "3dglasses.jpg",
+      medium: "3dglasses.jpg",
+      large: "3dglasses.jpg"
     },
 
     body:`
-We would love to beam this for you. Reach out if you are interested in knowing more.
+Thanks so much for taking a look at this select collection of my work. To see a complete portfolio and resume, please visit <a href="//www.ericcad.es">my complete personal site</a>
 <br />
-<br /> <a href="mailto:&#99;&#117;&#108;&#116;&#117;&#114;&#101;&#111;&#110;&#100;&#101;&#109;&#97;&#110;&#100;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">+ Drop us a line</a>
+<br /> <a href="mailto:&#99;&#117;&#108;&#116;&#117;&#114;&#101;&#111;&#110;&#100;&#101;&#109;&#97;&#110;&#100;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Or drop me a line by email with any questions.</a>
 <br />
  `
 
