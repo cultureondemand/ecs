@@ -164,7 +164,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />Browser App<br />September 1, 2016<br />Parse Seco<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />Web Based Project<br />September 1, 2016<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
  `
 
   }
@@ -204,7 +204,7 @@ header: "",
     },
 
     body:`
- <strong>Fordistas: Infiltrate 17.0</strong><br />JavaScript, WebGL, Projection Mapping, VR<br />96' x 12'<br />March 13, 2016<br />Product/81<br /><br />Sound-reactive 3D projection and mobile VR experience designed for this long-running Miami Music Conference alternative event.
+ <strong>Fordistas: Infiltrate 17.0</strong><br />JavaScript, WebGL, Projection Mapping, VR<br />Web Based Project<br />March 13, 2016<br />Product/81<br /><br />Sound-reactive projection and mobile VR experience designed for this long-running Miami Music Conference alternative event.
 
  `
 
@@ -246,7 +246,7 @@ header: "",
       name:"7"
     },
     body: `
- <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />In Browser<br />February 26, 2016 — February 27, 2016<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
+ <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />Web Based Project<br />February 26, 2016 — February 27, 2016<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
 `
   },
   
@@ -268,7 +268,7 @@ header: "",
       
     },
     body: `
- <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property with site specific art.
+ <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />18-story LEDs, hotel marquee, 12 interior screens<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property with site specific art.
 `
   },
   
