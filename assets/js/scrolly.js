@@ -75,14 +75,14 @@ var vid7=document.getElementById("bgvid7");vid7.pause();
 }
 function showTitle13(){
   var vid7=document.getElementById("bgvid7");vid7.play();
-var vid8=document.getElementById("bgvid8");vid8.pause();
+/////////var vid8=document.getElementById("bgvid8");vid8.pause();
 }
 function showTitle14(){
 var vid7=document.getElementById("bgvid7");vid7.pause();
-var vid8=document.getElementById("bgvid8");vid8.play();
+///////var vid8=document.getElementById("bgvid8");vid8.play();
 }
 function showTitle15(){
-var vid8=document.getElementById("bgvid8");vid8.pause();
+//////var vid8=document.getElementById("bgvid8");vid8.pause();
 }
 function showTitle16(){}
 function showTitle17(){
