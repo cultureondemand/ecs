@@ -84,7 +84,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br /><br />Long exposure photo of off the grid projection mapping of audio and video responsive web app projection mapped onto a backwoods barn in Northern Michigan.   
+<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br /><br />Long exposure photo of solo, off-the-grid projection mapping of audio and video responsive web app mapped onto a backwoods barn in Northern Michigan.   
      `
   },
   
@@ -104,7 +104,7 @@ var slideData = [
       name:"3"
     },
     body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited this footage with a small crew of Miami filmmakers supporting me in a 1 week shoot on Loop Road in Big Cypress Swamp. 
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited the documentary and filmed with a small crew of Miami filmmakers supporting me during a 1 week shoot on Loop Road in Big Cypress Swamp. 
     `
   },
   
@@ -246,7 +246,7 @@ header: "",
       name:"7"
     },
     body: `
- <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />In Browser<br />February 26, 2016 — February 27, 2016<br /><br />Sound-reactive 3D projection and mobile VR experience designed for Miami's first transmedia festival.
+ <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />In Browser<br />February 26, 2016 — February 27, 2016<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
 `
   },
   
@@ -319,7 +319,7 @@ header: "",
       
     },
     body: `
- <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping in collaboration with Ed Selego.
+ <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience was brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping in collaboration with Ed Selego.
     `
   },
   
