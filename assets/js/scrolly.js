@@ -94,12 +94,15 @@ var titleCloser=document.getElementById("titleCloser");
 
 }
 function showTitle19(){
-  var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
 
 }
                          
 function showTitle20(){}
-function showTitle21(){}
+                         
+function showTitle21(){  
+  var titleCloser=document.getElementById("titleCloser");titleCloser.setAttribute("style","display:inline-block; ");
+}
+                         
 function showTitle22(){
 }
 function showTitle23(){
