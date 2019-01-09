@@ -226,7 +226,7 @@ header: "",
       
     },
     body: `
- <strong>Outside the Box: Jason Moran, Jazz & Skateboarding</strong><br />JavaScript, WebGL, Projection Mapping<br />36' x 24'<br />Feb 6, 2016<br />YoungArts Campus<br /><br />Created a sound reactive 3D projection mapping installation inspired by the Spike Jonze/Mark Gonzalez masterpiece, Video Days, to build a 3D version of the video to projected on a building across the plaza, and designed to respond to live Jazz performed by Jason Moran as he and his band improvised to skateboarders skating a halfpipe in the plaza of Miami's YoungArts campus.
+ <strong>Outside the Box: Jason Moran, Jazz & Skateboarding</strong><br />JavaScript, WebGL, Projection Mapping<br />36' x 24'<br />Feb 6, 2016<br />YoungArts Campus<br /><br />Created a sound reactive projection mapping installation inspired by the Spike Jonze/Mark Gonzalez masterpiece, Video Days. Built a 3D version of the video in JavaScript and HTML5 to be projected on a building across the plaza, designed to respond to live Jazz performed by Jason Moran as he and his band improvised to skateboarders skating a halfpipe in the plaza of Miami's YoungArts campus.
     `
   },
   
@@ -342,7 +342,7 @@ header: "",
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />December 1, 2014<br />Web Based Project<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
+ <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />Web Based Project<br />December 1, 2014<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
     `
   },
   
