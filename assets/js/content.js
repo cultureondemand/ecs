@@ -329,7 +329,7 @@ header: "",
 
 
   {
-    section: "The John S. and James L. Knight Foundation",
+    section: "",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -340,7 +340,7 @@ header: "",
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />December 1, 2014<br />Online Publication<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
+ <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />December 1, 2014<br />Web Based Project<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
     `
   },
   
@@ -350,7 +350,7 @@ header: "",
 
 
   {
-    section: "The John S. and James L. Knight Foundation",
+    section: "",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -361,7 +361,7 @@ header: "",
       
     },
     body: `
- <strong>Searchlights and Sunglasses</strong><br />Creative Direction, Art Direction, Concepting<br />Interactive Textbook<br />October 2013<br /><br />Unique HTML5 journalism learning tool created in collaboration with author and journalism innovator Eric Newton.
+ <strong>Searchlights and Sunglasses</strong><br />Creative Direction, Art Direction, Concepting<br />Web Based Project<br />October 2013<br /><br />Unique HTML5 journalism learning tool created in collaboration with author and journalism innovator Eric Newton.
     `
   },
   
@@ -407,7 +407,7 @@ header: "",
       
     },
     body: `
- <strong>Erasey Page</strong><br />HTML5, JavaScript, Creative Direction, Design<br />Web Based Exhibit<br />June 2011<br /><br />Interactive exhibit created in collaboration with Miami artist Jillian Mayer.
+ <strong>Erasey Page</strong><br />HTML5, JavaScript, Creative Direction, Design<br />Web Based Installation<br />June 2011<br /><br />Erasey Page is a commissioned web-based project produced by Jillian Mayer in collaboration with creative technologist Eric Schoenborn, which will was on view in the Bass Museum’s recently renovated project room space of the Bass Museum Miami Beach. 
     `
   },
   
