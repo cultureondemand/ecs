@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Videography, Art Direction, Projection Mapping<br />42' x 42'<br />October 5, 2018<br /><br /> Outdoor projection mapping program on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings. Created content 
+<strong>Guerilla Kavanaugh Projections</strong><br />Videography, Art Direction, Projection Mapping<br />42' x 42'<br />October 5, 2018<br /><br /> Outdoor mobile projection mapping on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings.  
     `
   },
   
