@@ -294,7 +294,7 @@ header: "",
       
     },
     body: `
- <strong>Phenomenal Amarante</strong><br />Curation, Design, Development, JavaScript, WebGL<br />60'x20'<br />December 10, 2014<br />FIU-Wolfsonian Museum<br /><br />Sound Reactive projection mapping musical collaboration for official opening of Art Basel 2014. Organized the show, developed the browser app and executed the projector setup and mapping.
+ <strong>Phenomenal Amarante</strong><br />Curation, Design, Development, JavaScript, WebGL<br />60'x20'<br />December 10, 2014<br />FIU-Wolfsonian Museum<br /><br />Sound Reactive projection mapping musical collaboration for official opening of Art Basel 2014. Organized the show, developed the browser app and executed the projector setup and mapping in collaboration with Ed Selego.
     `
   },
   
@@ -319,7 +319,7 @@ header: "",
       
     },
     body: `
- <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping.
+ <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience will be brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping in collaboration with Ed Selego.
     `
   },
   
