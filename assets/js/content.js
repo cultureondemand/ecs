@@ -261,9 +261,9 @@ header: "",
     header: "",
   //////////////  video: "yes",
     bkgImage: {
-      small: "omiamiphenomenal.gif",
-      medium: "omiamiphenomenal.gif",
-      large: "omiamiphenomenal.gif"
+      small: "omiamiphenomenal2.gif",
+      medium: "omiamiphenomenal2.gif",
+      large: "omiamiphenomenal2.gif"
       
     },
     body: `
@@ -330,7 +330,7 @@ header: "",
 
 
   {
-    section: "www.knightfoundation.org/features/storytellingexpeditions/",
+    section: "knightfoundation.org/features/storytellingexpeditions/",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -351,7 +351,7 @@ header: "",
 
 
   {
-    section: ".searchlightsandsunglasses.org",
+    section: "searchlightsandsunglasses.org",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
