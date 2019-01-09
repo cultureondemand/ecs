@@ -49,7 +49,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac to celebrate the Piscataway Indian Nation of the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the experience in JavaScript and WebGL. 
+<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac to celebrate the Piscataway Indian Nation of the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land, designed a storyworld in JavaScript and WebGL, mounted 3 projectors and mapped the experience in MadMapper. 
     `
   },
   
@@ -68,7 +68,7 @@ var slideData = [
       
     },
     body: `
-<strong>Pickathon Cosmos</strong><br />Curation, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />136' x 112'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
+<strong>Pickathon Cosmos</strong><br />Curation, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />196' x 132'<br />August 3-5, 2018<br />Pickathon Music Festival<br /><br /> Co-curated digital art program and led the setup and execution of projection mapping original content within a custom designed venue at this innovative Pacific Northwest music festival. 
     `
   },
   
@@ -104,7 +104,7 @@ var slideData = [
       name:"3"
     },
     body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited this footage with a small crew of Miami filmmakers supporting me in a 1 week shoot in the Everglades. 
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited this footage with a small crew of Miami filmmakers supporting me in a 1 week shoot on Loop Road in Big Cypress Swamp. 
     `
   },
   
@@ -121,7 +121,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-<strong>New World Architecture Mapping</strong><br />Videography, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building in Miami Beach for takeover of the space by innovative Miami film festival.    
+<strong>New World Architecture Mapping</strong><br />Videography, Projection Mapping<br />Architecture Mapping<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building on Miami Beach for takeover of the space by innovative Miami film festival. Led setup and positioning of 9 projectors throughout the interior of the space and mapped in MadMapper.    
     `
   },
   
@@ -140,7 +140,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />September 1 - October 1, 2016<br />Parse Seco<br /><br />Augmented reality storytelling installation I developed in JavaScript, with footage shot in collaboration with Miami photographer Joel Meinholz.
+ <strong>Wild Beast</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />September 1 - October 1, 2016<br />Parse Seco<br /><br />Augmented reality storytelling installation I developed in JavaScript, with footage shot in collaboration with Miami photographer Joel Meinholz. Mounted 3 projectors, a webcam, microphone in the space and mapped in MadMapper.
  `
 
   }
@@ -164,7 +164,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />Browser App<br />September 1, 2016<br />Parse Seco<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a friend. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript and HTML5.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />Browser App<br />September 1, 2016<br />Parse Seco<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
  `
 
   }
@@ -186,7 +186,7 @@ header: "",
       
     },
     body: `
- <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br />Drexel University<br /><br />Adapted the original interactive skatepark concept for a Philadelphia specific show around the closing of iconic skate spot, Love Park. Designed the park, the projector locations and built the setup in collaboration with Ed Selego. Designed and developed the sound and motion reactive browser app in JavaScript and HTML5.
+ <strong>Philly Radness</strong><br />Skatepark Design, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />March 1 - May 1, 2016<br />Drexel University<br /><br />Adapted an interactive skatepark concept for a Philadelphia specific show around the closing of iconic skate spot, Love Park. Designed the park, mounted 6 projectors, hung 2 cameras with mics and built the setup in collaboration with Ed Selego. Designed and developed the sound and motion reactive browser app in JavaScript, WebRTC and HTML5.
     `
   },
   
