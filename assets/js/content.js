@@ -12,7 +12,7 @@ var slideData = [
       name:"1"
     },
     body: `
-<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />124' x 42'<br />November 9-11, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a 30'x30' dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
     `
   },
   
@@ -49,7 +49,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac in celebration of the Piscataway Tribe, native to the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the media in JavaScript and WebGL. 
+<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac in celebration of the Piscataway Indian Nation of the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the experience in JavaScript and WebGL. 
     `
   },
   
