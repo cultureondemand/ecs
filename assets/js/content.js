@@ -49,7 +49,7 @@ var slideData = [
       name:"2"
     },
     body: `
-<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac in celebration of the Piscataway Indian Nation of the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the experience in JavaScript and WebGL. 
+<strong>Piscataway 360</strong><br />Videography, Field Audio, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />86' x 14'<br />September 28-30, 2018<br />Human Progress Festival<br /><br />Immersive storytelling installation created in collaboration with Sebi Medina-Tayac to celebrate the Piscataway Indian Nation of the Washington, DC area. I shot video and captured field audio from ancestral Piscataway land and designed a storyworld for the experience in JavaScript and WebGL. 
     `
   },
   
@@ -259,14 +259,15 @@ header: "",
     section: "InterContinental Hotel. Miami, FL",
 //////////////////////////     icon: "pcy.svg",
     header: "",
-    video: "yes",
-   bkgImage: {
-     wm: "assets/images/bkg/prwr.webm",
-       mp: "assets/images/bkg/prwr.mp4",
-      name:"8"
+  //////////////  video: "yes",
+    bkgImage: {
+      small: "omiamiphenomenal.gif",
+      medium: "omiamiphenomenal.gif",
+      large: "omiamiphenomenal.gif"
+      
     },
     body: `
- <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the screens and exterior of the downtown Miami property.
+ <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />In Browser<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property.
 `
   },
   
@@ -329,7 +330,7 @@ header: "",
 
 
   {
-    section: "",
+    section: "www.knightfoundation.org/features/storytellingexpeditions/",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
@@ -350,7 +351,7 @@ header: "",
 
 
   {
-    section: "",
+    section: ".searchlightsandsunglasses.org",
 //////////////////     icon: "pcy.svg",
     header: "",
  //////////////////////////   video: "yes",
