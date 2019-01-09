@@ -429,9 +429,7 @@ header: "",
     },
 
     body:`
-Thanks so much for taking a look at this select collection of my work. To see a complete portfolio and resume, please visit <a href="//www.ericcad.es">my complete personal site</a>
-<br />
-<br /> <a href="mailto:&#99;&#117;&#108;&#116;&#117;&#114;&#101;&#111;&#110;&#100;&#101;&#109;&#97;&#110;&#100;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Or drop me a line by email with any questions.</a>
+Thanks so much for taking a look at this select collection of my work. To see a complete portfolio and resume, please visit <a href="//www.ericcad.es" style="background-color:#000;">my complete personal site</a>
 <br />
  `
 
