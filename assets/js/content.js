@@ -12,7 +12,7 @@ var slideData = [
       name:"1"
     },
     body: `
-<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br />Catharsis on the Mall<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
     `
   },
   
@@ -31,7 +31,7 @@ var slideData = [
       
     },
     body: `
-<strong>Guerilla Kavanaugh Projections</strong><br />Videography, Art Direction, Projection Mapping<br />42' x 42'<br />October 5, 2018<br /><br /> Outdoor mobile projection mapping on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings.  
+<strong>Guerilla Kavanaugh Projections</strong><br />Videography, Art Direction, Projection Mapping<br />42' x 42'<br />October 5, 2018<br />Washington, DC<br /><br /> Outdoor mobile projection mapping on landmarks along the power center of DC during the Brett Kavanaugh confirmation hearings.  
     `
   },
   
@@ -84,7 +84,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br /><br />Long exposure photo of solo, off-the-grid projection mapping of audio and video responsive web app mapped onto a backwoods barn in Northern Michigan.   
+<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br />Bretheren, MI<br /><br />Long exposure photo of solo, off-the-grid projection mapping of audio and video responsive web app mapped onto a backwoods barn in Northern Michigan.   
      `
   },
   
@@ -104,7 +104,7 @@ var slideData = [
       name:"3"
     },
     body: `
-<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited the documentary and filmed with a small crew of Miami filmmakers supporting me during a 1 week shoot on Loop Road in Big Cypress Swamp. 
+<strong>I Don't Care if I Do Die Do</strong><br />Video, JavaScript, WebGL, WebRTC, Projection Mapping<br />36' x 12'<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Clip from transmedia documentary created with support from Borscht Film Festival. I wrote, directed and edited the documentary and filmed with a small crew of Miami filmmakers supporting me during a 1 week shoot on Loop Road in Big Cypress Swamp. Released as projection mapping installation at Borsch Film Festival 2017. 
     `
   },
   
@@ -164,7 +164,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />Web Based Project<br />September 1, 2016<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
+ <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />September 1, 2016<br />Web Based Project<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
  `
 
   }
@@ -246,7 +246,7 @@ header: "",
       name:"7"
     },
     body: `
- <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />Web Based Project<br />February 26, 2016 — February 27, 2016<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
+ <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />February 26, 2016 — February 27, 2016<br />Web Based Project<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
 `
   },
   
@@ -268,7 +268,7 @@ header: "",
       
     },
     body: `
- <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />18-story LEDs, hotel marquee, 12 interior screens<br />November 2015 - January 2016<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property with site specific art.
+ <strong>InterContinental Miami Art Showcase</strong><br />Curation, Design, Development, JavaScript, WebGL, Video, Photography<br />18-story LEDs, hotel marquee, 12 interior screens<br />November 2015 - January 2016<br />InterContinental Hotel Miami<br /><br />Curated a year long series with 4 Miami New Media artists, including myself, to take over the interior and exterior of the downtown Miami property with site specific art.
 `
   },
   
@@ -342,7 +342,7 @@ header: "",
       
     },
     body: `
- <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />Web Based Project<br />December 1, 2014<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
+ <strong>Interactive Storytelling Expeditions</strong><br />Creative Direction, Art Direction, Concepting, Writing, Design, Illustration, JavaScript, HTML5, Audio<br />December 1, 2014<br />Web Based Project<br /><br />A Knight Foundation original report I created to demonstrate one approach to immersive storytelling for organizations and publications.
     `
   },
   
@@ -363,7 +363,7 @@ header: "",
       
     },
     body: `
- <strong>Searchlights and Sunglasses</strong><br />Creative Direction, Art Direction, Concepting<br />Web Based Project<br />October 2013<br /><br />Unique HTML5 journalism learning tool created in collaboration with author and journalism innovator Eric Newton.
+ <strong>Searchlights and Sunglasses</strong><br />Creative Direction, Art Direction, Concepting<br />October 2013<br />Web Based Project<br /><br />Unique HTML5 journalism learning tool created in collaboration with author and journalism innovator Eric Newton.
     `
   },
   
@@ -384,7 +384,7 @@ header: "",
       
     },
     body: `
- <strong>Phenomenal Radness</strong><br />Processing, TUIO, MadMapper, Videography<br />120'x18'<br />June 2013<br /><br />Created in partnership with NikeSB and MIA Skateshop as a popup immersive experience in the Miami Design District. I developed the piece in Processing and incorporated Microsoft Kinects using TUIO for a motion-reactive component. The piece was mapped across the space using MadMapper into 6 projectors placed and hung in collaboration with Ed Selego.
+ <strong>Phenomenal Radness</strong><br />Processing, TUIO, MadMapper, Videography<br />120'x18'<br />June 2013<br />Miami Design District<br /><br />Created in partnership with NikeSB and MIA Skateshop as a popup immersive experience in the Miami Design District. I developed the piece in Processing and incorporated Microsoft Kinects using TUIO for a motion-reactive component. The piece was mapped across the space using MadMapper into 6 projectors placed and hung in collaboration with Ed Selego.
     `
   },
   
@@ -409,7 +409,7 @@ header: "",
       
     },
     body: `
- <strong>Erasey Page</strong><br />HTML5, JavaScript, Creative Direction, Design<br />Web Based Installation<br />June 2011<br /><br />Erasey Page is a commissioned web-based project produced by Jillian Mayer in collaboration with creative technologist Eric Schoenborn, which will was on view in the Bass Museum’s recently renovated project room space of the Bass Museum Miami Beach. 
+ <strong>Erasey Page</strong><br />HTML5, JavaScript, Creative Direction, Design<br />June 2011<br />Bass Museum<br /><br />Erasey Page is a commissioned web-based project produced by Jillian Mayer in collaboration with creative technologist Eric Schoenborn, which will was on view in the project room space of the Bass Museum Miami Beach. 
     `
   },
   
