@@ -12,7 +12,7 @@ var slideData = [
       name:"1"
     },
     body: `
-<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br />Catharsis on the Mall<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
+<strong>Catharsis on the Mall</strong><br />JavaScript, WebGL, HTML5, Video, WebRTC, Projection Mapping<br />90' x 20'<br />November 9-11, 2018<br />National Mall<br /><br /> Developed Javascript browser app in Three.js to drive installation created with 3 projectors hung from the frame of a dome constructed in the center of the National Mall. Mapped the app using MadMapper.  
     `
   },
   
@@ -319,7 +319,7 @@ header: "",
       
     },
     body: `
- <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />FIU-Wolfsonian Museum<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience was brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping in collaboration with Ed Selego.
+ <strong>Next – From Nano to Macro, Innovation at Every Scale</strong><br />JavaScript, WebGL<br />60'x20'<br />October 14, 2014<br />Patricia and Phillip Frost Museum of Science<br /><br />A real-life animated GIF visitors could step inside co-create together. The immersive, interactive experience was brought to life by the creative technology of projection mapping, motion sensing and beautiful content. Organized the show, developed the browser app and executed the projector setup and mapping in collaboration with Ed Selego.
     `
   },
   
