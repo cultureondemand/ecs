@@ -75,7 +75,7 @@ var slideData = [
 
 
   {
-    section: "The Groves Homestead. Bretheren, MI",
+    section: "The Groves Homestead. Brethren, MI",
 //////////////////////////     icon: "pcy.svg",
     header: "",
     bkgImage: {
@@ -84,7 +84,7 @@ var slideData = [
       large: "barnface.png"
     },
     body: `
-<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br />Bretheren, MI<br /><br />Long exposure photo of solo, off-the-grid projection mapping of audio and video responsive web app mapped onto a backwoods barn in Northern Michigan.   
+<strong>Augmented Americana</strong><br />JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 52'<br />June 7, 2018<br />Brethren, MI<br /><br />Long exposure photo of solo, off-the-grid projection mapping of audio and video responsive web app mapped onto a backwoods barn in Northern Michigan.   
      `
   },
   
