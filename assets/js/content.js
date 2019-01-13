@@ -121,7 +121,7 @@ var slideData = [
       large: "borscht.jpeg"
     },
     body: `
-<strong>New World Architecture Mapping</strong><br />Videography, Projection Mapping<br />Architecture Mapping<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of iconic New World Art Center building on Miami Beach for takeover of the space by innovative Miami film festival. Led setup and positioning of 9 projectors throughout the interior of the space and mapped in MadMapper.    
+<strong>New World Architecture Mapping</strong><br />Videography, Projection Mapping<br />Architecture Mapping<br />March 13-18, 2017<br />Borscht Film Festival<br /><br />Architecture mapping of the interior of Frank Gehry designed New World Center building on Miami Beach, for takeover of the space by innovative Miami film festival. Led setup and positioning of 9 projectors throughout the interior of the space and mapped in MadMapper.    
     `
   },
   
@@ -140,7 +140,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />September 1 - October 1, 2016<br />Parse Seco<br /><br />Augmented reality storytelling installation I developed in JavaScript, with footage shot in collaboration with Miami photographer Joel Meinholz. Mounted 3 projectors, a webcam, microphone in the space and mapped in MadMapper.
+ <strong>Wild Beast Installation</strong><br />Videography, Photography, JavaScript, WebGL, HTML5, WebRTC, Projection Mapping<br />96' x 12'<br />September 1 - October 1, 2016<br />Parse Seco<br /><br />Augmented reality storytelling installation I developed in JavaScript, with footage shot in collaboration with Miami photographer Joel Meinholz. Mounted 3 projectors, a webcam, microphone in the space and mapped in MadMapper.
  `
 
   }
@@ -164,7 +164,7 @@ header: "",
     },
 
     body:`
- <strong>Wild Beast</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />September 1, 2016<br />Web Based Project<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
+ <strong>Wild Beast App</strong><br />Video, Photos, JavaScript, WebGL, WebRTC, HTML5<br />September 1, 2016<br />Web Based Project<br /><br />Browser-based immersive storytelling adventure about backroads road trip with a Joel Meinholz. We collaborated on capturing field audio, photos and video from sacred and abandoned sites in the American West. I designed and developed this browser app in JavaScript, WebRTC and HTML5.
  `
 
   }
@@ -246,7 +246,7 @@ header: "",
       name:"7"
     },
     body: `
- <strong>Filmgate Interactive</strong><br />Vieography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />February 26, 2016 — February 27, 2016<br />Web Based Project<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
+ <strong>My Good, Good Friend App</strong><br />Videography, Photography, Field Audio, JavaScript, WebGL, HTML5, WebVR<br />February 26, 2016 — February 27, 2016<br />Filmgate Interactive Creative Festival<br /><br />Sound-reactive 3D storyword and mobile VR experience designed for Miami transmedia festival, Filmgate.
 `
   },
   
